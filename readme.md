@@ -1,11 +1,11 @@
 # NASA API Challenge
 
 This is an excercise from CodersLab bootcamp. I used jQuery and ajax fo get data from NASA API. The first section show the photo of the day, with its date and description.
-Works on section number 2 are still in progress but it will show random pictures from Mars. Life preview is available [here]()
+Works on section number 2 are still in progress but it will show random pictures from Mars. Life preview is available [here](https://majaanna.github.io/nasa-images/)
 
 
 
-## Zadanie polega na wykorzystaniu API udostępnionego przez NASA.
+### Zadanie polega na wykorzystaniu API udostępnionego przez NASA.
 
 1. Zapoznaj się się z [API wystawionym przez NASA](https://api.nasa.gov/index.html). Zobacz jak wyglada dokumentacja, jakie dane możesz otrzymać oraz jak budować zapytania.
 

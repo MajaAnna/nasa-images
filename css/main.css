@@ -33,7 +33,7 @@ section{
     border-radius: 10px;
 }
 
-.welcome-about p:first-of-type{
+.welcome-about p:first-of-type, p:nth-of-type(n){
     padding:0 0 20px 0;
     font-size:1.5rem;
 }
